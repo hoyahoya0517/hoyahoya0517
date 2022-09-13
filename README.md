@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=hoyahoya0517&fontSize=60&type=soft&fontColor=FFFFFF&color=black)
 
-WEB HACKING
-FRONT END
+WEB HACKING & FRONT END
 
 
 
