@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=hoyahoya0517&fontSize=20&&type=soft)
+![header](https://capsule-render.vercel.app/api?text=hoyahoya0517&fontSize=20&type=soft&color=black)
 
 
 
