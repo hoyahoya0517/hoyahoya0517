@@ -2,19 +2,12 @@
 
 <br>
 <br>
-<br>
+
+<h1 align = "center">WEB HACKING & FRONT END</h1>
 
 <br>
-<h1 align = "center">WEB HACKING & FRONT END</h1>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <h3 align = "center">Studying</h3>
 <p align = "center">
