@@ -9,6 +9,7 @@
 <p align = "center">hoyahoya0517@naver.com</p>
 
 <br>
+<br>
 
 <h2 align = "center">Studying</h2>
 <p align = "center">
