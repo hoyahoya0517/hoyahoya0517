@@ -5,12 +5,12 @@
 <br>
 <br>
 
-<h3 align = "center">Email</h3>
+<h2 align = "center">Email</h2>
 <p align = "center">hoyahoya0517@naver.com</p>
 
 <br>
 
-<h3 align = "center">Studying</h3>
+<h2 align = "center">Studying</h2>
 <p align = "center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src
 ="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a> <img src
