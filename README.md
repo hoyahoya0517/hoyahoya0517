@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?text=hoyahoya0517&fontSize=60&type=rounded&fontColor=FFFFFF&color=80FF00)
+![header](https://capsule-render.vercel.app/api?text=hoyahoya0517&fontSize=60&type=rounded&fontColor=FFFFFF&color=BCF5A9)
 
 <br>
 <br>
 
-<h1 align = "center">WEB HACKING & FRONT END</h1>
+<h1 align = "center">FRONT END & WEB HACKING</h1>
 
 <br>
 <br>
