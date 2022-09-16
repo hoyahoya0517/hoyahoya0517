@@ -1,4 +1,3 @@
-<br>
 
 <h1 align = "center">FRONT END & WEB HACKING</h1>
 <p align = "center">웹 공부를 하고 있습니닷</p>
