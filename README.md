@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<h3 align = "center">Email</h3>
+<p align = "center">hoyahoya0517@naver.com</p>
+
+<br>
 
 <h3 align = "center">Studying</h3>
 <p align = "center">
