@@ -2,16 +2,9 @@
 <br>
 <br>
 <br>
+
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-WEB HACKING & FRONT END
+<h1 align = "center">WEB HACKING & FRONT END</h1>
 <br>
 <br>
 <br>
