@@ -1,14 +1,12 @@
 
 <h1 align = "center">FRONT END & WEB HACKING</h1>
-<p align = "center">웹 공부를 하고 있습니닷</p>
+<p align = "center">웹 공부를 하고 있습니다</p>
 
-<br>
 <br>
 
 <h2 align = "center">Email</h2>
 <p align = "center">hoyahoya0517@naver.com</p>
 
-<br>
 <br>
 
 <h2 align = "center">Studying</h2>
