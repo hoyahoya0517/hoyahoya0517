@@ -1,5 +1,5 @@
 
-<h1 align = "center">FRONT END & WEB HACKING</h1>
+<h1 align = "center">FRONT END & BACK END</h1>
 <p align = "center">웹을 공부하고 있습니다..!</p>
 
 <br>
