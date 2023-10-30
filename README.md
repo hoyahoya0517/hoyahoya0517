@@ -1,6 +1,6 @@
 
 <h1 align = "center">FRONT END</h1>
-<p align = "center">웹공부 하자!</p>
+<p align = "center">공부중...</p>
 
 <br>
 
